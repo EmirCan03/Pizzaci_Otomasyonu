@@ -12,5 +12,6 @@ Bu proje, bir pizzacı otomasyonu uygulamasını içermektedir. Bu otomasyon, ku
 5-)MySQL
 # Ekran Görüntüleri 
 ![image](https://github.com/EmirCan03/Pizzaci_Otomasyonu/assets/110032105/d4e1da11-d2ff-4962-84b7-15a24f137757)
+![image](https://github.com/EmirCan03/Pizzaci_Otomasyonu/assets/110032105/63da0ee1-dc11-455d-acc4-d0ed46e0a0a5)
 
 
