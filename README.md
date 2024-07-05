@@ -1,1 +1,1 @@
-# Pizzaci_Otomasyonu
+# Pizzacı Otomasyonu
